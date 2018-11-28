@@ -1,0 +1,6 @@
+.ijwb
+bazel-bin
+bazel-external-deps-sources-ijwb-issue
+bazel-genfiles
+bazel-out
+bazel-testlogs
